@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geekamon
 - 👀 I’m interested in Front-end development
-- 🌱 I’m proficient in HTML and CSS and am currently learning JavaScript and React
+- 🌱 I’m proficient in HTML and CSS and I'm currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: ejumuemuvwwojustice@gmail.com
 
